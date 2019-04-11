@@ -1,6 +1,6 @@
 # React Webpack Babel
 
-> notes on [this](https://www.valentinog.com/blog/react-webpack-babel/) article
+> Buuilt following [this](https://www.valentinog.com/blog/react-webpack-babel/) article. Additional notes below.
 
 # Setting up webpack
 
